@@ -1,4 +1,11 @@
 # InP-keyboard_game
+
+### 23-1 First Programming
+- Dup too many source code
+- Use link
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/54fa6729-22c0-4eb0-b9b1-d8b0513d40b8)
 /index 화면
 
